@@ -71,3 +71,4 @@ Regras importantes:
 - Pedro Kayke Souza Prates
 - Nickolas Zilig 
 
+Turma : 21CT.I
