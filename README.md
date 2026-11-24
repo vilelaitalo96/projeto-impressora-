@@ -32,7 +32,7 @@ projeto_impressora/
 4. Ligue a impressora, conecte o cabo USB e execute a classe `Main`.
 
 ## Login de teste
-- Usuário: `cuiudo`
+- Usuário: `admin`
 - Senha: `1234`
 
 São 3 tentativas. A cada erro o programa mostra quantas restam; errou as 3, ele encerra.
