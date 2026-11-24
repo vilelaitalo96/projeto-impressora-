@@ -67,8 +67,9 @@ Regras importantes:
 - [x] Cada opção testada na impressora (preencher após o teste em sala)
 
 ## Autores
-- italo Batista Vilela Monteiro
-- Pedro Kayke Souza Prates
+- Italo Batista Vilela Monteiro
 - Nickolas Zilig 
+- Pedro Kayke Souza Prates
+
 
 Turma : 21CT.I
